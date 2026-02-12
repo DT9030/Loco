@@ -1,0 +1,7 @@
+{
+  "name": "LocalCircle - Neighborhood Connection",
+  "description": "A community-focused app for neighborhood recommendations, local questions, and social discovery. Connect with your neighbors and discover hidden gems nearby.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
